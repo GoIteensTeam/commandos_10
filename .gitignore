@@ -1,4 +1,13 @@
 .git
 .idea
-.idea/*
 node_modules/
+
+.idea/jsLibraryMappings.xml
+
+.idea/libraries/meteor_packages_auto_import_browser.xml
+
+.idea/libraries/meteor_packages_auto_import_npm.xml
+
+.idea/misc.xml
+
+.idea/vcs.xml
